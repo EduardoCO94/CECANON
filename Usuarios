@@ -1,8 +1,7 @@
 
 
 /**
- *
- * @author Erick Silva Cesar Cañon ortiz.
+ * @author Cesar Cañon ortiz.
  */
 public class Usuarios {
     private int id;
