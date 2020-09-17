@@ -28,8 +28,6 @@ public class Usuarios {
     public void setId_tipo(int id_tipo) {
         this.id_tipo = id_tipo;
     }
-    
-   
 
     public String getNombre_tipo() {
         return nombre_tipo;
