@@ -9,8 +9,8 @@ import java.util.logging.Logger;
 public class Conexion
 {
     private final String url = "jdbc:mysql://localhost/gestion";
-	//private final String usuario = "root";
-	//private final String contraseña = "";
+	private final String usuario = "root";
+	private final String contraseña = "";
 	private Connection conectar = null;
 
 	public Connection getConexion() {
